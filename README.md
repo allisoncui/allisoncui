@@ -1,5 +1,5 @@
 ### Hello! My name is Allison Cui 👋
-- I’m currently a 2nd-year at Columbia University studying Computer Science 💻
+- I’m currently a 3rd-year at Columbia University studying Computer Science 💻
 - 📫 Reach me at ac5187@columbia.edu
 
 <!--
