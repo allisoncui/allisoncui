@@ -1,5 +1,6 @@
 ### Hello! My name is Allison Cui 👋
-- I’m currently a 3rd-year at Columbia University studying Computer Science 💻
+- I’m currently a 4th-year at Columbia University studying Computer Science & Economics 💻
+- Interested in AI, research, and product
 - 📫 Reach me at ac5187@columbia.edu
 
 <!--
